@@ -1,0 +1,12 @@
+24  1  0  19  19
+49  8  0  30  30
+49  9  2  24  26
+55  14  0  25  25
+80  23  0  25  25
+52.7306   51.7068   54.1747   52.7285   
+2   2   2   2   
+LOSE!
+Number of Killed Enemies: 5
+Number of Alive Enemies: 95
+Average Fight Delay: 0.4
+Average Kill Delay: 24.6
